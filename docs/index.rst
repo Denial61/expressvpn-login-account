@@ -10,7 +10,7 @@ A human-friendly guide to ExpressVPN login account access, managing settings, an
    :alt: express VPN Login Account
    :width: 400px
    :align: center
-   :target: https://aclogportal.com/expressvpn-login
+   :target: https://expressvpnaccount.com
 
 Using a virtual private network has become a daily habit for people who value online privacy and secure browsing. ExpressVPN is one of the most reliable tools for protecting your personal information and accessing content around the world. But to use its full features, you need to know how to access your ExpressVPN login account properly.
 
